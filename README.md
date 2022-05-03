@@ -11,6 +11,10 @@
 
 **Guideline for replication:**
 
-Workflow samples are available in WorkflowSample Zip file. You can import it in Galaxy using https://usegalaxy.org/ link. You need to have an account in this workflow management system to import and analyze it.
+Workflow samples are available in **WorkflowSample** Zip file. You can import it in Galaxy using https://usegalaxy.org/ link. You need to have an account in this workflow management system to import and analyze it.
+
+**Reusability Challenges findings and actions dataset:**
+
+The analyzed dataset are availbe in **Workflow-Reusability-Challenges** excel sheet. Each sheet name represent the activities.
 
 
