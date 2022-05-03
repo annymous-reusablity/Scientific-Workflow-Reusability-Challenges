@@ -11,6 +11,6 @@
 
 **Guideline for replication:**
 
-Workflow samples are available in WorkflowSample Zip file. You can import it in Galaxy using https://usegalaxy.org/ link.
+Workflow samples are available in WorkflowSample Zip file. You can import it in Galaxy using https://usegalaxy.org/ link. You need to have an account in this workflow management system to import and analyze it.
 
 
