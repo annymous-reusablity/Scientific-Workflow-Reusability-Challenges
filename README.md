@@ -9,3 +9,8 @@
 
 **Conclusions**: Our intensive manual investigation examined the reusability of existing workflows and exposed several challenges. Such challenges and our action list offered guidelines to future workflow composers to create better workflows with enhanced reusability. In future, we will build a tool recommender system that assists scientists in creating reusable workflows.
 
+**Guideline for replication:**
+
+Workflow samples are available in WorkflowSample Zip file. You can import it in Galaxy using https://usegalaxy.org/ link.
+
+
